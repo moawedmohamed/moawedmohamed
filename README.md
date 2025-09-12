@@ -42,7 +42,7 @@
 
 ### `🛠️ Languages & Tools:`
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker,react,nodejs,express,mongodb,mysql,postgresql,tailwind,typescript,java,linux"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,postman,git,html,css,js,docker,react,nodejs,express,mongodb,mysql,postgresql,tailwind,typescript,linux"/>
 </p>
 
 ---
