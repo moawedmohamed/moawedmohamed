@@ -27,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mmoawedmohamed" target="blank">
+<a href="https://x.com/mmoawed_mohamed" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/moawed-mohamed-045786299" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://fb.com/moawed mohamed" target="blank">
+<a href="https://www.facebook.com/?form=MT00M3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 </p>
@@ -44,8 +44,6 @@
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,postman,git,html,css,js,docker,react,nodejs,express,mongodb,mysql,postgresql,tailwind,typescript,linux"/>
 </p>
-
----
 
 ### `🔥 GitHub Stats & Streaks`
 <p align="left">
